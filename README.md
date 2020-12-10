@@ -1,5 +1,5 @@
 # timeAgo
 
-Bu örneğimizde şimdiki tarih ile belirtiğimiz tarih arası farmı güzel yazan bir örnek yazdık
+Bu örneğimizde şimdiki tarih ile belirtiğimiz tarih arası farkı güzel yazan bir örnek yazdık
 
-Youtube videosu : yüklenecek
+Youtube videosu : https://youtu.be/f5Si2xQYtMM
